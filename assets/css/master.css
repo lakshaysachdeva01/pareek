@@ -10,6 +10,7 @@
   top: 0;
   left: 0;
   background-color: white;
+   color: #431a80;
 
 }
 #preloader img{
@@ -157,7 +158,6 @@ margin-top: 0;
     position: relative;
    margin-top: 65px;
     width: 100vw;
-    height: 88vh; 
    overflow: hidden;
    
     
